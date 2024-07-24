@@ -13,7 +13,7 @@ export const SidebarData = [
   },
   {
     title: 'Users',
-    icon: <IoIcons.IoIosPaper />,
+    icon: <IoIcons.IoMdPeople />,
     cName: 'nav-text'
   },
   {
@@ -23,7 +23,7 @@ export const SidebarData = [
   },
   {
     title: 'Configuration',
-    icon: <IoIcons.IoMdPeople />,
+    icon: <IoIcons.IoIosPaper />,
     cName: 'nav-text'
   },
 ];

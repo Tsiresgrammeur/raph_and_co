@@ -26,9 +26,4 @@ export const SidebarData = [
     icon: <IoIcons.IoMdPeople />,
     cName: 'nav-text'
   },
-  {
-    title: 'Enseignement',
-    icon: <GiTeacher />,
-    cName: 'nav-text'
-  },
 ];

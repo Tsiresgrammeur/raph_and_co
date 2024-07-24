@@ -92,7 +92,7 @@ const Accueil = () => {
           <thead>
             <tr>
               <th style={{ textAlign: "center", width: "50px" }}>N°</th>
-              <th style={{ textAlign: "center", width: "300px" }}>Nom</th>
+              <th style={{ textAlign: "center", width: "300px" }}>Name</th>
               <th style={{ textAlign: "center", width: "150px" }}>
                 <i className="fa fa-cog"></i>
               </th>
@@ -103,7 +103,7 @@ const Accueil = () => {
             {users.length === 0 ? (
               <tr>
                 <td colSpan="6" style={{ textAlign: "center" }}>
-                  Il n'y a pas de données sur les enseignants pour le moment...
+                  No users
                 </td>
               </tr>
             ) : (

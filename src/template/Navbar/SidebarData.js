@@ -23,7 +23,7 @@ export const SidebarData = [
   },
   {
     title: 'Configuration',
-    icon: <IoIcons.IoIosPaper />,
+    icon: <IoIcons.IoIosSettings />,
     cName: 'nav-text'
   },
 ];
